@@ -341,4 +341,19 @@ textarea{
     top: 15px;
     right: 35px;
     }
+    .skills__cards{
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .header__cards{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+    .contact__cards{
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
 }
